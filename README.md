@@ -1,9 +1,10 @@
+<!--
 ### Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NeeleshTammana)](https://git.io/streak-stats)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<!--
+
 **NeeleshTammana/NeeleshTammana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
